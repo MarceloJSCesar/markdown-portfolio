@@ -20,13 +20,9 @@ __My Study Planning:__
    * _OOP_
    * _Architecture_
    * _Advance Style_
-4. _Mobx_
-5. _RestApi_
-6. _Firebase_
-7. _Linux_
-8. _Crypto_
-9. _Animation_
-9. _C Language_
-10. _Data Structure && Algorithm_
-11. _Python_
-12. _Java_
+5. _Linux_
+6. _Crypto_
+7. _C Language_
+8. _Data Structure && Algorithm_
+9. _Python_
+10. _Java_
