@@ -3,8 +3,8 @@
 _Focusing in all concepts as possible_
 
 __My Study Planning:__
-1. Hardware :white_check_mark:
-2. Computer Architecture
+1. Hardware :heavy_check_mark:
+2. Computer Architecture :heavy_check_mark:
 3. Computer Network
    * TCP/IP
    * DNS && BIND
