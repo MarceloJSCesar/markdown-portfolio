@@ -18,7 +18,7 @@ __My Study Planning:__
    * _Firebase_
    * _Animation_
    * _OOP_
-   * _Architecture_
+   * _MVM and MVP_
    * _Advance Style_
 5. _Linux_
 6. _Crypto_
