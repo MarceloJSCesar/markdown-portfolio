@@ -3,7 +3,7 @@
 _Focusing in all concepts as possible_
 
 __My Study Planning:__
-1. Hardware
+1. Hardware :white_check_mark:
 2. Computer Architecture
 3. Computer Network
    * TCP/IP
