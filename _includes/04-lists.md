@@ -1,6 +1,6 @@
 ## Curriculum:
 
-![Curriculum](https://www.linkedin.com/dms/C4E06AQGrqSTGONCBFg/messaging-attachmentFile/0/1614698366499?m=AQI1Dmte_HJ-DAAAAXhRN6PC2zNOayGmNzZjok3vgEr9jpH4HmSLusOmsw&ne=1&v=beta&t=4FCEubNieUwxyBls_OvpBaqSsFC5WrS_J3VzbQ9wvQI#2-MTYxNDY5ODM3MDQ4MGI0MjczMC0wMDMmM2IyZjE1YzUtOTc3MC00OGUxLTkwZTAtYzk2MTdlYTI0NGY0XzAxMg==)
+![Curriculum](https://scontent.frai1-1.fna.fbcdn.net/v/t1.0-9/119586603_1375582772832991_7408745017430881796_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=tvHEctBAUpMAX-QvTLI&_nc_ht=scontent.frai1-1.fna&oh=c8796747ef825491c2fc9ae25a3ef951&oe=607CDF70)
 
 * Cyber Security Engineer
 * Flutter Developer
