@@ -2,16 +2,16 @@
 
 _Focusing in all concepts as possible_
 
-_My Study Planning:_
+__My Study Planning:__
 1. Hardware
 2. Computer Architecture
 3. Computer Network
-   1. TCP/IP
-   2. DNS && BIND
-   3. VPN
-   4. WLAN && LAN
-   5. OSI Model
-   6. Internet 
+   * TCP/IP
+   * DNS && BIND
+   * VPN
+   * WLAN && LAN
+   * OSI Model
+   * Internet 
 4. Mobx
 5. RestApi
 6. Firebase
