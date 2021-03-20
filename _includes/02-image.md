@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Photo at School](https://scontent.frai1-1.fna.fbcdn.net/v/t1.0-9/119586603_1375582772832991_7408745017430881796_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=tvHEctBAUpMAX-QvTLI&_nc_ht=scontent.frai1-1.fna&oh=c8796747ef825491c2fc9ae25a3ef951&oe=607CDF70)
