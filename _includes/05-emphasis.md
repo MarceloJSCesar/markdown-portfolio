@@ -3,8 +3,8 @@
 _Focusing in all concepts as possible_
 
 __My Study Planning:__
-1. _Hardware_ `:heavy_check_mark:`
-2. _Computer Architecture_ `:heavy_check_mark:`
+1. _Hardware_ `completed`
+2. _Computer Architecture_ `completed`
 3. _Computer Network_
    * _TCP/IP_
    * _DNS && BIND_
@@ -21,5 +21,3 @@ __My Study Planning:__
 10. _Data Structure && Algorithm_
 11. _Python_
 12. _Java_
-
-:heavy_check_mark:
