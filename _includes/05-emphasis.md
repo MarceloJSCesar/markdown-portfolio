@@ -12,11 +12,20 @@ __My Study Planning:__
    * _WLAN && LAN_
    * _OSI Model_
    * _Internet_ 
+4. Flutter
+   * _Mobx_
+   * _RestApi_
+   * _Firebase_
+   * _Animation_
+   * _OOP_
+   * _Architecture_
+   * _Advance Style_
 4. _Mobx_
 5. _RestApi_
 6. _Firebase_
 7. _Linux_
 8. _Crypto_
+9. _Animation_
 9. _C Language_
 10. _Data Structure && Algorithm_
 11. _Python_
