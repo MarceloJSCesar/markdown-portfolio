@@ -2,7 +2,7 @@
 
 _Focusing in all concepts as possible_
 
-## Plan:
+## Plans:
 
 __My Study Planning:__
 1. _Hardware_ `completed`
