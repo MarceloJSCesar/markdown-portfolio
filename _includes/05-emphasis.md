@@ -2,6 +2,8 @@
 
 _Focusing in all concepts as possible_
 
+## Plan:
+
 __My Study Planning:__
 1. _Hardware_ `completed`
 2. _Computer Architecture_ `completed`
