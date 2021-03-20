@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I'm Current Studying Computer Network and mobx**
+__Focusing in all concepts as possible__
+_**God** with **us**_
