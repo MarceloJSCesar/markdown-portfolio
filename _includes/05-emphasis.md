@@ -1,3 +1,5 @@
 **I'm Current Studying Computer Network and mobx**
-__Focusing in all concepts as possible__
+
+_Focusing in all concepts as possible_
+
 _**God** with **us**_
