@@ -42,3 +42,10 @@ __My Study Planning:__
 * JavaScript
 * Hardware
 * Computer Networking
+
+
+## Language 
+
+* English -> Intermediate
+* Portuguese -> Professional 
+* Creolo -> Native
