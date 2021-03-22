@@ -7,14 +7,14 @@ _Focusing in all concepts as possible_
 __My Study Planning:__
 1. _Hardware_ `completed`
 2. _Computer Architecture_ `completed`
-3. _Computer Networking_
+3. _Computer Networking_ `studying`
    * _TCP/IP_
    * _DNS && BIND_
    * _VPN_
    * _WLAN && LAN_
    * _OSI Model_
    * _Internet_ 
-4. Flutter
+4. Flutter `studying`
    * _Mobx_
    * _RestApi_
    * _Firebase_
@@ -27,9 +27,10 @@ __My Study Planning:__
 7. _C Language_
 8. _Data Structure && Algorithm_
 9. _Python_
-10. _Java_
+10. Ethical Hacking
+11. _Java_
 
-## Skills 
+## Skills: 
 
 * GitHub
 * Git
@@ -42,7 +43,7 @@ __My Study Planning:__
 * Hardware
 * Computer Networking
 
-## Language 
+## Languages: 
 
 * English -> Intermediate
 * Portuguese -> Professional 
