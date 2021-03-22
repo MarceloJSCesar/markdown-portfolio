@@ -29,7 +29,6 @@ __My Study Planning:__
 9. _Python_
 10. _Java_
 
-
 ## Skills 
 
 * GitHub
@@ -42,7 +41,6 @@ __My Study Planning:__
 * JavaScript
 * Hardware
 * Computer Networking
-
 
 ## Language 
 
