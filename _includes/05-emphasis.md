@@ -28,3 +28,17 @@ __My Study Planning:__
 8. _Data Structure && Algorithm_
 9. _Python_
 10. _Java_
+
+
+## Skills 
+
+* GitHub
+* Git
+* Dart
+* Flutter
+* Firebase
+* HTML
+* CSS
+* JavaScript
+* Hardware
+* Computer Networking
