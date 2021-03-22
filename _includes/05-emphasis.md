@@ -7,7 +7,7 @@ _Focusing in all concepts as possible_
 __My Study Planning:__
 1. _Hardware_ `completed`
 2. _Computer Architecture_ `completed`
-3. _Computer Network_
+3. _Computer Networking_
    * _TCP/IP_
    * _DNS && BIND_
    * _VPN_
