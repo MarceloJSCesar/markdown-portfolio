@@ -14,7 +14,7 @@ __My Study Planning:__
    * _WLAN && LAN_
    * _OSI Model_
    * _Internet_ 
-4. Flutter `studying`
+4. _Flutter_ `studying`
    * _Mobx_
    * _RestApi_
    * _Firebase_
@@ -23,12 +23,13 @@ __My Study Planning:__
    * _MVM and MVP_
    * _Advance Style_
 5. _Linux_
-6. _Crypto_
-7. _C Language_
-8. _Data Structure && Algorithm_
-9. _Python_
-10. Ethical Hacking
+6. _C Language_
+7. _Data Structure && Algorithm_
+8. _Python_
+9. Ethical Hacking
+10. _Crypto_
 11. _Java_
+12. Artificial Inteligence with python
 
 ## Skills: 
 
@@ -45,6 +46,6 @@ __My Study Planning:__
 
 ## Languages: 
 
-* English -> Intermediate
+* English -> Intermediate `studying`
 * Portuguese -> Professional 
 * Creolo -> Native
