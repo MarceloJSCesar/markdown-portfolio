@@ -20,13 +20,13 @@ __My Study Planning:__
    * _Firebase_
    * _Animation_
    * _OOP_
-   * _MVM and MVP_
+   * _MVVM and MVP_
    * _Advance Style_
 5. _Linux_
 6. _C Language_
 7. _Data Structure && Algorithm_
-8. _Python_
-9. Ethical Hacking
+8. Ethical Hacking
+9. _Python_
 10. _Crypto_
 11. _Java_
 12. Artificial Inteligence with python
