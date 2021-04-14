@@ -8,28 +8,33 @@ __My Study Planning:__
 1. _Hardware_ `completed`
 2. _Computer Architecture_ `completed`
 3. _Computer Networking_ `studying`
-   * _TCP/IP_
-   * _DNS && BIND_
-   * _VPN_
-   * _WLAN && LAN_
+   * _Internet_ `done`
+   * _Network Architecture_ `...`
    * _OSI Model_
-   * _Internet_ 
-4. _Flutter_ `studying`
-   * _Mobx_
-   * _RestApi_
+   * _TCP/IP_
+   * _WLAN && LAN_
+   * _VPN_
+   * _Routing, Switching ..._
+   * _Internet of Things_
+   * _DNS && BIND_ 
+4. _Dart and Flutter_ `studying`
+   * _Dart Concepts **Deeper**_ `...`
+   * _OOP with Dart_ `...`
+   * _Mobx_ `...`
+   * _RestApi_ `...`
+   * _Flutter Architecture(MVVM and MVC)_ `...`
    * _Firebase_
-   * _Animation_
-   * _OOP_
-   * _MVVM and MVP_
-   * _Advance Style_
-5. _Linux_
-6. _C Language_
-7. _Data Structure && Algorithm_
-8. Ethical Hacking
+   * _Advanced Style_
+5. _Linux and kali linux_
+6. _C and C++ Language_
+7. _Data Structure && Algorithms_
+8. _Ethical Hacking_
 9. _Python_
 10. _Crypto_
-11. _Java_
-12. Artificial Inteligence with python
+11. _Azure_
+12. _Java_
+13. _Artificial Inteligence with Python_
+14. _Java Script for scripting_
 
 ## Skills: 
 
