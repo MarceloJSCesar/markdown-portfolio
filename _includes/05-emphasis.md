@@ -16,6 +16,7 @@ __My Study Planning:__
    * _VPN_
    * _Routing, Switching ..._
    * _Internet of Things_
+   * _Firewall_
    * _DNS && BIND_ 
 4. _Dart and Flutter_ `studying`
    * _Dart Concepts **Deeper**_ `...`
